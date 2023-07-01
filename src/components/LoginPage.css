@@ -1,0 +1,129 @@
+
+.div1{
+    display: flex;
+    align-items: start;
+}
+.div2{
+    width: 50%;
+    height: 600px;
+    background-color: gray; 
+    
+}
+.div2 img{
+    
+    align-items: start;
+    width: 100%;
+    height: 100%;
+    /* padding-left: 10%; */
+}
+.div3{
+    position: absolute;
+    top: 32%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+.div3 h1{
+    font-size: 1.5rem;
+    margin-left: -80px;
+    font-weight: 800;
+    background: rgb(249, 249, 249);
+    
+    -webkit-text-fill-color: transparent;
+}
+.div4{
+    
+    width: 50%;
+   height: 600px;
+   text-align: center;
+   justify-content: center;
+   display: flex;
+    background-color: rgb(244, 226, 226); 
+    
+}
+.sub-main{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    height: 450px;
+    width: 65%;
+    background-color: brown;
+    box-shadow: 11px 12px 11px 012px blueviolet;
+    border-radius: 60px;
+    background-color: aliceblue;
+}
+.img{
+    /* padding-top: 40px; */
+    justify-content: center;
+    display: flex;
+    
+
+}
+.container{
+    background-color: beige;
+    border-radius: 80px;
+    align-items: center;
+    display: flex;
+    height: 80px;
+    width: 80px;
+    margin-top: 30px;
+}
+.profile{
+    height: 80px;
+    width: 80px;
+border-radius: 120px;
+}
+.div5{
+    margin-top: 50px;
+    
+}
+.div5 i{
+   justify-content: space-between;
+   margin-left: -0100px;
+}
+.div5 h1{
+    margin-bottom: 40px;
+}
+.input{
+    border: none;
+    outline: none;
+}
+
+.email,.password{
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 200px;
+    height: 25px;
+    border-radius: 60px;
+    box-shadow: inset 6px 0 25px 0 gainsboro;
+}
+
+button{
+    width: 100px;
+    height: 35px;
+    border-radius: 60px;
+    background-color: cadetblue;
+    color: aliceblue;
+    font-size: 20px;
+    border: none;
+
+}
+.button
+{
+  margin-top: 15px;
+  margin-right: 70px;
+}
+.signup{
+    padding-top: 30px;
+    text-align: center;
+    align-items: center;
+    
+}
+.sup{
+    margin-top: 20px;
+    margin-left: -60px;
+}
